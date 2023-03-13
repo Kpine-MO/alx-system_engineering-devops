@@ -1,1 +1,1 @@
-This is a shell basics test
+0x02-shell_redirections
